@@ -12,7 +12,6 @@ log*.txt
 **/.ipynb_checkpoints/
 **/*.ipynb
 **/plot_model/*.tex
-**/*.pdf
 **/*.aux
 **/*.log
 **.png
