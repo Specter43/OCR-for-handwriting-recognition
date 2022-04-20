@@ -1,0 +1,8 @@
+@ARTICLE{
+    Coquenet2022,
+    author={Coquenet, Denis and Chatelain, Clement and Paquet, Thierry},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    title={End-to-end Handwritten Paragraph Text Recognition Using a Vertical Attention Network},
+    year={2022},
+    doi={10.1109/TPAMI.2022.3144899}
+}
