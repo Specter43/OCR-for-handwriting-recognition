@@ -1,6 +1,6 @@
 # OCR-for-handwriting-recognition
 
-Report: CSC413_report.pdf
+Report: CSC413_report.pdf (Code Base link in Appendix)
 
 Code base references are in Code_Repository_Reference.txt
 
