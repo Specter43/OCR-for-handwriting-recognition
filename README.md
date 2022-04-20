@@ -14,4 +14,4 @@ formsI-Z.tgz
 
 lines.tgz
 
-Code base reference are in Code_Repository_Reference.txt
+Code base references are in Code_Repository_Reference.txt
